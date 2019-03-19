@@ -1,0 +1,281 @@
+{
+	"ro": {
+		"description": "Citează pe cineva în chat",
+		"startMsg": "Pornit",
+		"quoteTooltip": "Citează",
+		"deleteTooltip": "Șterge",
+		"noPermTooltip": "Fară permisiuni de citare",
+		"noChatTooltip": "Fară permisiuni de a trimite mesaje",
+		"attachment": "Atașament",
+		"warning": {
+			"title": "Avertizare Embed",
+			"description": "Prin utilizarea citatelor embed ești predispus să fii raportat la Discord și să ai permisiunile de embed eliminate global. Folosește cu grijă.",
+			"yes": "Folosește Embeduri",
+			"no": "Rămâi cu codeblocks"
+		},
+		"settings": {
+			"mentionUser": {
+				"title": "Menționează utilizatorul citat",
+				"description": "Dacă să fie menționat utilizatorul citat sau nu. Poți, de asemenea, apăsa pe avatarul utilizatorului pentru a atașa o mențiune in mesajul tău."
+			},
+			"useFallbackCodeblock": {
+				"title": "Folosește formatul de citat codeblock",
+				"choices": ["Niciodată", "Mereu", "Numai atunci când nu ai permisiuni"]
+			},
+			"disableServers": {
+				"title": "Dezactivează citaturile embed pentru servere specifice",
+				"description": "Apasă pe un server pentru a dezactiva citaturile embed pentru acesta. Apasă din nou pentru a re activa.</br>Poți, de asemenea, să faci click dreapta pe un server și să comuți",
+				"context": "Citate Embed"
+			},
+			"reset": "Restabilește setările"
+		}
+	},
+	"pt": {
+		"description": "Cita alguém no chat",
+		"startMsg": "Iniciado",
+		"quoteTooltip": "Citar",
+		"deleteTooltip": "Excluir",
+		"noPermTooltip": "Sem permissão para citar",
+		"noChatTooltip": "Sem permissão para enviar mensagens",
+		"attachment": "Anexo",
+		"warning": {
+			"title": "Aviso de Embed",
+			"description": "Ao usar citações em embed você está sujeito a ter suas permissões limitadas globalmente e ter seu nome sujo. Use com cautela.",
+			"yes": "Usar Embeds",
+			"no": "Continuar com codeblocks"
+		},
+		"settings": {
+		"mentionUser": {
+			"title": "Mencionar o usuário citado",
+			"description": "Mencionar ou não o usuário que se está citando. Você pode clicar no avatar dele no preview para adicionar a menção à mensagem."
+		},
+		"useFallbackCodeblock": {
+			"title": "Usar citação em formato de bloco de código",
+			"choices": ["Nunca", "Sempre", "Somente quando sem permissão"]
+		},
+		"disableServers": {
+			"title": "Desabilitar citação em embed para servidores específicos",
+			"description": "Clique em um servidor para desabilitar citações em embed para ele. Clique novamente para habilitar.</br>Você também pode clicar com o botão direito em um servidor e habilitar ou desabilitar por lá.",
+			"context": "Citação em embed"
+		},
+		"reset": "Redefinir configurações"
+		}
+	},
+	"de": {
+		"description": "Zitiert jemanden im Chat mithilfe von eingebetten Nachrichten",
+		"startMsg": "Gestartet",
+		"quoteTooltip": "Zitieren",
+		"deleteTooltip": "Löschen",
+		"noPermTooltip": "Keine Rechte zum Zitieren",
+		"noChatTooltip": "Keine Rechte Nachrichten zu senden",
+		"attachment": "Anhang",
+		"warning": {
+			"title": "Embed Warning",
+			"description": "By using embeded quotes you're susceptible to being red flagged from Discord and having embedding permissions removed globally. Use carefully.",
+			"yes": "Use Embeds",
+			"no": "Stick with codeblocks"
+		},
+		"settings": {
+			"mentionUser": {
+				"title": "Mention the quoted user",
+				"description": "Whether to mention the quoted user or not. You can also click their avatar to attach their mention to your message."
+			},
+			"useFallbackCodeblock": {
+				"title": "Im Code-Format senden",
+				"choices": ["Niemals", "Immer", "Nur, falls keine Berechtigung"]
+			},
+			"disableServers": {
+				"title": "Deaktiviere Zitate für spezielle Server",
+				"description": "Klicke auf einen Server um Zitate zu deaktivieren. Klicke erneut zum Aktivieren.</br>Du kannst auch auf einen Server rechtsklicken zum Umschalten.",
+				"context": "Zitate einbetten"
+			},
+			"reset": "Einstellungen zurücksetzten"
+		}
+	},
+	"ru": {
+		"description": "Позволяет цитировать сообщения",
+		"startMsg": "Запущен",
+		"quoteTooltip": "Цитировать",
+		"deleteTooltip": "Удалить",
+		"noPermTooltip": "Нет прав для цитирования",
+		"noChatTooltip": "Нет прав для отправки сообщений",
+		"attachment": "Вложение",
+		"warning": {
+			"title": "Предупреждение о встраивании",
+			"description": "Используя встраиваемые цитаты, вы рискуете быть замеченными командой Дискорда, которые могут глобально запретить вам использовать любые встроенные сообщения. Используйте с осторожностью.",
+			"yes": "Использовать встраивание",
+			"no": "Оставить форматирование"
+		},
+		"settings": {
+			"mentionUser": {
+				"title": "Упоминать цитируемого пользователя",
+				"description": "Переключает упоминание пользователя при цитировании. Вы так же можете нажать на аватарку цитируемого пользователя, чтобы упомянуть его."
+			},
+			"useFallbackCodeblock": {
+				"title": "Форматировать цитаты блоками кода",
+				"choices": ["Никогда", "Всегда", "Только если нет нужных прав"]
+			},
+			"disableServers": {
+				"title": "Отключить встраивание цитат для отдельных серверов",
+				"description": "Нажмите на иконку сервера, чтобы отключить встраивание. Нажмите снова, чтобы включить.</br>Вы так же можете нажать ПКМ по иконке, чтобы изменить настройки оттуда.",
+				"context": "Встраивание цитат"
+			},
+			"reset": "Сбросить настройки"
+		}
+	},
+	"ja": {
+		"description": "チャットメッセージを引用します。",
+		"startMsg": "起動完了",
+		"quoteTooltip": "引用",
+		"deleteTooltip": "削除",
+		"noPermTooltip": "引用する権限がありません",
+		"noChatTooltip": "このチャンネルでメッセージを送信する権利がありません",
+		"attachment": "添付ファイル",
+		"warning": {
+			"title": "引用に関する警告",
+			"description": "引用符を使用すると、Discordよりあなたのアカウントの引用権限が制限され、すべてのサーバーで引用が利用できなくなる場合があります。注意して利用してください。",
+			"yes": "引用符を使用する",
+			"no": "コードブロックを使用する"
+		},
+		"settings": {
+			"mentionUser": {
+				"title": "引用されたユーザーにメンションを飛ばす",
+				"description": "引用されたユーザーにメンションを送るかどうかの設定です。アバターアイコンをクリックしてもメンションを追加できます。"
+			},
+			"useFallbackCodeblock": {
+				"title": "引用にコードブロックを使用する",
+				"choices": ["絶対に行わない", "常に行う", "権限が無いときのみ使用する"]
+			},
+			"disableServers": {
+				"title": "指定したサーバーでEmbedの引用を無効化します",
+				"description": "サーバーをクリックするとEmbedの引用が無効になります。もう一度クリックすることで再度有効になります。</br>ギルドを右クリックすることで切り替えることもできます。",
+				"context": "Embedの引用"
+			},
+			"reset": "設定をリセット"
+		}
+	},
+	"fr": {
+		"description": "Cite un message du chat",
+		"startMsg": "Lancé",
+		"quoteTooltip": "Citer",
+		"deleteTooltip": "Supprimer",
+		"noPermTooltip": "Vous n'avez pas la permission de citer",
+		"noChatTooltip": "Vous n'avez pas la permission d'envoyer un message",
+		"attachment": "Message attaché",
+		"warning": {
+			"title": "Embed Warning",
+			"description": "By using embeded quotes you're susceptible to being red flagged from Discord and having embedding permissions removed globally. Use carefully.",
+			"yes": "Use Embeds",
+			"no": "Stick with codeblocks"
+		},
+		"settings": {
+			"mentionUser": {
+				"title": "Mentionner l'utilisateur cité",
+				"description": "Choisir de mentionner l'utilisateur ou non. Vous pouvez aussi cliquer sur l'avatar de l'utilisateur cité."
+			},
+			"useFallbackCodeblock": {
+				"title": "Utiliser le format 'codeblock'",
+				"choices": ["Jamais", "Toujours", "Seulement quand je n'ai pas les permissions"]
+			},
+			"disableServers": {
+				"title": "Désactiver les citations en embed pour certains serveurs",
+				"description": "Cliquez sur un serveur pour désactiver les citation en embed. Re-cliquez pour les réactiver.</br>Vous pouvez aussi faire un click droit pour basculer.",
+				"context": "Embed quotes"
+			},
+			"reset": "Remettre à zéro"
+		}
+	},
+	"en": {
+		"description": "Quotes somebody in chat",
+		"startMsg": "Started",
+		"quoteTooltip": "Quote",
+		"deleteTooltip": "Delete",
+		"noPermTooltip": "No permission to quote",
+		"noChatTooltip": "No permission to send messages",
+		"attachment": "Attachment",
+		"warning": {
+			"title": "Embed Warning",
+			"description": "By using embeded quotes you're susceptible to being red flagged from Discord and having embedding permissions removed globally. Use carefully.",
+			"yes": "Use Embeds",
+			"no": "Stick with codeblocks"
+		},
+		"settings": {
+			"mentionUser": {
+				"title": "Mention the quoted user",
+				"description": "Whether to mention the quoted user or not. You can also click their avatar to attach their mention to your message."
+			},
+			"useFallbackCodeblock": {
+				"title": "Use codeblock quote format",
+				"choices": ["Never", "Always", "Only when without permission"]
+			},
+			"disableServers": {
+				"title": "Disable embed quotes for specific servers",
+				"description": "Click a server to disable embed quotes for it. Click again to enable.</br>You can also right-click a guild and toggle it.",
+				"context": "Embed quotes"
+			},
+			"reset": "Reset settings"
+		}
+	},
+	"es": {
+		"description": "Cita a alguien en el chat",
+		"startMsg": "Iniciado",
+		"quoteTooltip": "Citar",
+		"deleteTooltip": "Eliminar",
+		"noPermTooltip": "No tienes permiso para citar",
+		"noChatTooltip": "No tienes permiso para enviar mensajes",
+		"attachment": "Adjunto",
+		"warning": {
+			"title": "Advertencia de embeds",
+			"description": "Al usar citas embeds estas advertido de ser marcado como rojo desde Discord con la posibilidad de que remuevan tus permisos de incrustación. Usalo con precaución.",
+			"yes": "Usar embeds",
+			"no": "Quedarse con bloques de códigos"
+		},
+		"settings": {
+			"mentionUser": {
+				"title": "Mencionar al usuario citado",
+				"description": "Ya sea para mencionar al usuario que citaste o no. También puedes hacer click en sus avatares y adjuntar su mención a tu mensaje."
+			},
+			"useFallbackCodeblock": {
+				"title": "Usar el formato de bloque de código",
+				"choices": ["Nunca", "Siempre", "Solo cuando no tenga permiso"]
+			},
+			"disableServers": {
+				"title": "Desactivar citas embed para servidores específicos",
+				"description": "Haz click en un servidor para desactivar las citas embed para el mismo. Haz click otra vez en ellos para activarlos.</br>También puedes hacer click derecho en un servidor y cambiarlo.",
+				"context": "Citas embed"
+			},
+			"reset": "Restablecer ajustes"
+		}
+	},
+	"cs": {
+		"description": "Umožňuje citovat zprávy v chatu",
+		"startMsg": "Spuštěn",
+		"quoteTooltip": "Citovat",
+		"deleteTooltip": "Smazat",
+		"noPermTooltip": "Neoprávněn citovat",
+		"noChatTooltip": "Neoprávněn posílat zprávy",
+		"attachment": "Příloha",
+		"warning": {
+			"title": "Upozornění o Embeds",
+			"description": "Používáním citací pomocí Embeds jste náchylní k nachytání Discordem a globálnímu zákazu použití Embeds na svém účtu. Používejte s opatrností.",
+			"yes": "Použít Embeds",
+			"no": "Nadále používat bloky kódu"
+		},
+		"settings": {
+			"mentionUser": {
+				"title": "Zmínit citovaného uživatele",
+				"description": "Nastaví, jestli se má ve zprávě zmínit citovaný uživatel, nebo ne. Můžete také kliknout na jejich avatar, čímž je ve zprávě zmíníte."
+			},
+			"useFallbackCodeblock": {
+				"title": "Citovat pomocí bloků kódu",
+				"choices": ["Nikdy", "Vždycky", "Jen pokud nemáte jiná oprávnění"]
+			},
+			"disableServers": {
+				"title": "Vypnutí Embeds pro určité servery",
+				"description": "Po kliknutí na server u něj vypnete citování pomocí Embeds. Kliknutím znovu je povolíte.</br>Také můžete kliknout na server pravým tlačítkem myši a tuto možnost přepnout.",
+				"context": "Embed citace"
+			},
+			"reset": "Obnovit nastavení"
+		}
+	}
+}
